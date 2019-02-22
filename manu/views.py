@@ -1,4 +1,3 @@
-# yomamabot/fb_yomamabot/views.py
 import requests
 from django.views import generic
 from django.http.response import HttpResponse
