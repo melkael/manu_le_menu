@@ -10,6 +10,7 @@ VERIFY_TOKEN = None
 ACCESS_TOKEN = None
 
 
+
 class ManuView(generic.View):
 
     script = Script()
